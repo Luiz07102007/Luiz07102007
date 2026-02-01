@@ -39,5 +39,5 @@ Desenvolvedor focado em soluções multiplataforma, com experiência em desenvol
 
 ### 📫 Como me encontrar
 <p align="left">
-  <a href="[https://www.linkedin.com/in/SEU_LINKEDIN_AQUI](https://www.linkedin.com/in/luiz-felipe-ara%C3%BAjo-rodrigues-777b253a9/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI](https://www.linkedin.com/in/luiz-felipe-ara%C3%BAjo-rodrigues-777b253a9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
