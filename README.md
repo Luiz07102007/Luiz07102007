@@ -1,8 +1,5 @@
 # Bem vindo ao meu perfil.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luiz07102007&show_icons=true&theme=dracula&include_all_commits=true" alt="GitHub Stats" height="180px" />
-</div>
 
 ### 🚀 Sobre mim
 Desenvolvedor focado em soluções multiplataforma, com experiência em desenvolvimento Mobile e Web.
