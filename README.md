@@ -1,4 +1,4 @@
-<h1 align="center">Bem-vindo ao perfil de Luiz Felipe Araujo Rodrigues</h1>
+<h1 align="center">Luiz Felipe Araujo Rodrigues</h1>
 
 ### Sobre mim
 Desenvolvedor focado em soluções multiplataforma, com experiência em desenvolvimento Mobile e Web.
